@@ -95,7 +95,7 @@ theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-# deploy:
-#   type: git
-#   repository: git@hexoBlog.github.com:leunghq/leunghq.github.io
-#   brabch: master
+deploy:
+  type: git
+  repository: git@hexoBlog.github.com:leunghq/leunghq.github.io
+  brabch: master
